@@ -1,0 +1,12 @@
+C:\DEV\Presentation Integration Continue\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\DEV\Presentation Integration Continue\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\DEV\Presentation Integration Continue\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\DEV\Presentation Integration Continue\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\DEV\Presentation Integration Continue\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\DEV\Presentation Integration Continue\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\DEV\Presentation Integration Continue\Project\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
