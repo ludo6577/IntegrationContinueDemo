@@ -21,7 +21,8 @@ namespace ConsoleApplication
                 return n;
             return FiboImpl1(n - 1) + FiboImpl1(n - 2);
         }
-        public static int FiboImpl2(int n)
+        /*
+        public static int FiboImpl1(int n)
         {
             if (n < 0)
                 throw new ArgumentException("Argument cannot be negative");
@@ -35,5 +36,6 @@ namespace ConsoleApplication
             }
             return c;
         }
+        */
     }
 }
