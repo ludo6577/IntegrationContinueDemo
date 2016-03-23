@@ -1,10 +1,15 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Reflection;
+
 namespace ConsoleApplication
 {
     public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fibo -  Version N°:" + FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion);
+            Console.WriteLine("---------------------------------------------");
             Console.WriteLine(Fibo(5));
             Console.ReadLine();
         }
